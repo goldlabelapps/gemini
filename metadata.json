@@ -1,0 +1,5 @@
+{
+  "name": "NX-AI",
+  "description": "A simple interface to interact with Google's Gemini AI models directly from your browser.",
+  "requestFramePermissions": []
+}
